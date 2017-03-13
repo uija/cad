@@ -1,0 +1,29 @@
+Beplankung		0.5	Balsa 2mm
+Rippen 			2 	Balsa 2.5mm
+Seiten 			2 	Balsa 2.5mm
+Rumpf Oben/Unten	1 	Balsa 2.5mm
+Verkastung		1	Balsa 2.5mm
+Rippen Mitte, Spanten 	1 	Balsa 4mm
+Klappen 		1 	Balsa 4mm
+Höhe/Seite 		1 	Balsa 4mm
+Nasenleiste 		1 	5x5 Balsaleiste
+Rumpf Leisten 		4 	5x5 Kiefernleiste
+Flächen Leisten 	4 	4x4 Kiefernleiste
+Sperrholz 		0.5 	40x40 4mm Pappel
+
+Preise Balsabar.de
+
+Balsa 2mm	1.04€	0.5	 0.52€	
+Balsa 2.5mm	1.10€	6	 6.60€
+Balsa 4mm	1.36€	3	 4.08€
+Balsa 5x5	0.36€	1	 0.36€
+Kiefer 5x5	0.48€	4	 1.92€
+Kiefer 4x4	0.48€	4	 1.92€
+Pappel 4mm	2.09€   0.5	 1.05€
+				------
+				16.45€
+
+Versand		7.00€		 7.00€
+Fräser		3.00€		 3.00€
+--------------------------------------
+				26.45€
